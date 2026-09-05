@@ -15,5 +15,7 @@ Building and Usage
 1. Clone the repository:
 git clone https://github.com/samal3tvset-sys/Crystal.git
 cd Crystal
+Review the source code and documentation within the ⁠src/⁠ directory.
+Compile using the provided build configurations in a controlled testing environment.
 
 
