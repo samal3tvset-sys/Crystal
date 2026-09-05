@@ -13,5 +13,5 @@ Disclaimer
 This software is provided "as is" without warranty of any kind, express or implied. It is intended strictly for educational, debugging, and security research. The authors assume no responsibility or liability for any device instability, data loss, or system damage resulting from the use of this code.
 Building and Usage
 1: Clone the repository
-git clone https://github.com/samal3tv-sys/Crystal.git
+git clone https://github.com/samal3tvset-sys/Crystal.git
 cd Crystal
