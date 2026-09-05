@@ -53,3 +53,13 @@ dkms.conf
 
 # debug information files
 *.dwo
+# Xcode / macOS workspace junk
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
