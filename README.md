@@ -17,5 +17,6 @@ git clone https://github.com/samal3tvset-sys/Crystal.git
 cd Crystal
 Review the source code and documentation within the ⁠src/⁠ directory.
 Compile using the provided build configurations in a controlled testing environment.
+Disclaimer: This is a raw, proof-of-concept version of the exploits. I am not responsible for any bootloops, kernel panics, data loss, or device damage. Use at your own risk — you assume full responsibility for anything that happens to your device upon downloading and running this software.
 
 
